@@ -1,0 +1,1 @@
+f046d68e-e39e-46f2-87c0-11ae3853a1b2 bucket=conn-repo datacenter=US encryption=none host=s3.amazonaws.com name=conn-repo port=80 public=yes storageclass=STANDARD type=S3 timestamp=1592361384.075852s
